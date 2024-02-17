@@ -1,5 +1,10 @@
 ### Hi, I'm Ron 👋
+I'm a final year Computer Science student at UQ. Fascinated by all things Machine Learning, Data Science, Cryptography and Math.
+Experimenting with applying the concepts I'm learning in and out of the university.
+Looking to apply and expand my knowledge in the field of machine learning and data science.
 
+  💞️ I'm looking for part time internship in everything machine learning and AI <br>
+  📫 How to reach me: [linkedIn Profile](www.linkedin.com/in/ron-ashri )
 <!--
 **Ron-Ash/Ron-Ash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
